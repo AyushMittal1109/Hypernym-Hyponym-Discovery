@@ -1,0 +1,500 @@
+excess	calcification	disfunction	cavity	conclusion	physician	diagnosis	neoplasm	fever	lump	undernutrition	weakness	imperfection	suppuration	cardiomyopathy
+animal	division	phase	echinoderm	stage	illness	speciality	malignancy	pain	therapy	popovici	ischemic colitis	neuromeric	aldesleukin	modugno
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+cardiomyopathy	panencephalitis	malaise	impairment	encephalomyelitis	speech	pathogen	dilatation	complication	dyspnoea	leukoencephalopathy	cardiopathy	uneasiness	inactivity	painfulness
+body structure	n	blood	r	beat	swelling	i	v	bleeding	heartbeat	pathology	c	body fluid	b	clinical finding
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+salt	rock	drug	crystal	silicate	atom	uracil	alkaloid	halide	amphibole	medicine	analyte	pyrimidine	ester	anion
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+ester	atom	anti-inflammatory	sulfate	amide	sedative	carbohydrate	ethanolamine	supplementation	painkiller	toxin	phytochemical	rifamycin	depressant	psychostimulant
+unease	irritation	swelling	palsy	delay	uneasiness	suspension	encephalomyelitis	pathology	hyperthermia	malady	disorder	physician	virus	infection
+attraction	aliphatic	oil	arylamine	polyamine	radical	bond	atom	halogen	terpene	hydrocarbon	fuel	medicine	alkane	sickness
+analgesic	rock	toxicant	alloy	neuroleptic	fuel	purgative	hormone	tranquilizer	hydrolase	lipid	antidiabetic	ester	chemotherapeutic	steroidogenesis
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+t	u	 	n	o	r	c	b	tray	imprint	i	f	d	w	v
+t	u	 	n	o	r	c	b	i	f	d	w	awareness	v	a
+cardiopathy	toxaemia	impairment	repeating	termination	uneasiness	passivity	dyspnea	mania	blackout	hyperthermia	disease	palsy	speech	dyscrasia
+heartbeat	fraction	beat	blood	sickness	pulsation	speciality	pulse	neoplasm	centrepiece	electrodermal response	state	sprunger	far-field	corrosion
+hormone	antibacterial	elastomer	endocrine	peroxidase	drug	protein	accelerator	medicine	bond	activator	transporter	tetrapeptide	phosphotransferase	transferase
+t	u	 	n	o	r	c	physical property	concentration	b	i	f	d	w	temperature
+tincture	analyte	colour	protein	dye	medicine	cyanocobalamin	kth	agazzi	brigitte	kingsland	quail	ofek	soybean	required
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+empyema	hemochromatosis	regurgitation	failure	amnesia	disfunction	repeating	repetition	thrombosis	dermatitis	nephropathy	puffiness	glomerulosclerosis	malfunction	neoplasia
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+silicate	monocarboxylate	ester	halide	heterocycle	alkali	esterification	rock	alkaloid	desiccant	salt	antimetabolite	stone	ion	amphibole
+antibacterial	colour	activator	glycosaminoglycan	transporter	endocrine	polymer	polysaccharide	fluid	illness	biofluid	transferase	glycan	drug	hormone
+n	division	r	illness	i	echinoderm	worm	pathology	c	nematode	b	f	d	malady	w
+n	r	i	surgical material	c	b	f	d	w	t	 	o	polymer	siloxane	u
+tranquillizer	psychostimulant	oil	rock	mesalamine	alkali	purgative	diphosphonate	benzodiazepine	ester	tropane	ion	micro-organism	phytochemical	alloy
+stimulation	conclusion	icon	tending	biopsy	aid	hole	skiagram	actuation	trephination	radiogram	wound	removal	pic	arteriography
+medicine	hold on	zingiber	protein	disorder	clerk	normale	biometrics	glöckner	flap	mistral	mitsuo	painkilling	germinal center	reference system
+corticoid	immunomodulator	hydrocarbon	alloy	antidiabetic	salt	antibacterial	analgesic	fluid	endocrine	nifedipine	macrolide	vasoconstrictive	peptide	halide
+dysplasia	opening	inflammatory disorder	neoplasm	auditory structure	supratentorial brain	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+bond	vasoconstrictive	insecticide	saccharide	poison	mesalamine	halide	ester	rock	psychedelic	toxicant	herb	alloy	hydrocarbon	tranquilizer
+hole	radiogram	transplant	yarn	illustration	intervention	ending	attachment	roentgenogram	shunt	tomography	cord	evaluation	incision	fluoroscopy
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+dyspnoea	palsy	disfunction	rigidity	uneasiness	narrowing	motion	redness	fever	passivity	rhinitis	pathogen	tension	contagion	fatigue
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	chemotherapy	conclusion	b	functional skills training	lumbar puncture	surgical procedure
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+gamete	os	hydrops	fibroma	cavity	carcinoma	proliferation	cardiopathy	trauma	sickness	myocyte	pathology	aorta	hyperplasia	exudate
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	cardiac enzyme	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	dye
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+division	roundworm	animal	disorder	sickness	fish	pathology	echinoderm	disease	stretch	neuropathy	malady	worm	nematode	illness
+anion	medicine	heterocycle	rock	dopa	drug	pressor	radical	halide	protein	biopolymer	biomolecule	atom	mixture	ester
+tension	colitis	std	exudate	micro-organism	fistula	puberty	fatigue	narrowing	cough	softness	encephalopathy	ataxia	bleeding	aching
+halide	alloy	desiccant	anaesthetic	antidote	spice	pressor	herb	toxin	insulin	phytochemical	pyrimidine	antiinflammatory	antidiabetic	solution
+os	outgrowth	amnesia	epilepsy	undernutrition	handicap	back	rhinitis	dilatation	blackout	debility	arch	redness	anatomy	unconsciousness
+medicine	antispasmodic	plant	drug	beet	spice	disorder	herb	vegetable	neuropathy	sickness	putt	specialism	dissuade	pupillometric
+phytochemical	nucleobase	amine	rock	solution	terpene	alkali	atom	stone	ion	uracil	halide	moiety	polymer	oil
+surfactant	cannabinoid	insulin	hallucinogen	warfarin	steroidogenesis	macromolecule	carbohydrate	ion	anti-inflammatory	ester	antipsychotic	oil	antimetabolite	sugar
+supplementation	poison	psychostimulant	antimetabolite	neuroleptic	painkiller	oil	immunomodulator	phytochemical	hallucinogenic	alloy	biopolymer	analgesic	enzyme	hydrolase
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+particle	benzimidazole	hormone	salt	pressor	insecticide	corticosteroid	facies	benzodiazepine	spice	rock	interferon	antispasmodic	tranquillizer	corticoid
+palsy	glomerulonephritis	colitis	contagion	continuation	joy	unfitness	redness	uneasiness	paranoia	fever	softness	microorganism	passivity	dyspnoea
+rigidity	adenopathy	handicap	dwarfism	repetition	depression	mania	suspension	irritation	obstruction	angina	joy	mediastinitis	pathogen	colitis
+alkaloid	vaccine	neuroleptic	insecticide	dopa	alloy	anion	drug	antidote	endocrine	psychostimulant	pill	antipsychotic	toxicant	desiccant
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+malady	trauma	pathology	hurt	wound	disorder	sickness	misfortune	accident	misadventure	procedure	illness	harm	hole	trouble
+nematode	colitis	disturbance	mediastinitis	termination	hurt	module	cirrhosis	panencephalitis	urticaria	dysfunction	injury	pathology	disability	dyscrasia
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+procedure	joining	transplantation	evaluation	excision	biopsy	drawing	urinalysis	photograph	illustration	radiogram	bibliotherapy	photo	roentgenogram	ending
+diagnosis	recipient	student	physician	sickness	guardian	caregiver	intellectual	naturalist	narrowing	disorder	person	enrollee	malady	disease
+oil	biphosphonate	supplement	analgesic	opiate	painkiller	hydrocarbon	inhibitor	glycan	terpene	attraction	insulin	benzimidazole	antiviral	benzodiazepine
+drug	salt	diphosphonate	anti-inflammatory	psychedelic	insecticide	supplementation	medicine	hallucinogenic	atom	lipid	acid	rock	particle	hallucinogen
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+exudation	contagion	adenoma	imperfection	continuance	perception	paranoia	dwarfism	chd	regurgitation	haemochromatosis	purpura	vd	stenosis	panencephalitis
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+halide	rifamycin	tranquilizer	toxicant	heterocycle	tropane	antibiotic	nifedipine	aid	biphosphonate	depressant	drug	hallucinogenic	neuroleptic	hydrocarbon
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+fatigue	module	hurting	purulence	patient	student	cephalitis	dilatation	pathology	cough	panencephalitis	tachycardia	lump	psychosis	delay
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	cardiac enzyme	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	dye
+fatigue	malfunction	chd	dyspnoea	scleroderma	depression	mediastinitis	rhinitis	gravidity	std	gestation	dwarfism	disturbance	ophthalmoplegia	redness
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+echinoderm	fish	animal	roundworm	illness	division	disease	malady	nematode	pathology	disorder	sickness	eel	specialty	price tag
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+speciality	protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	involution	picture	sternotomy	conclusion	b	functional skills training
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+vessel	proliferation	telencephalon	level	arch	appendage	swelling	syndrome	os	back	rachis	vas	cavity	trouble	outgrowth
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+t	u	 	n	o	r	c	nucleic acid sequence	b	i	f	d	suppressor	w	biological sequence
+t	u	 	electrode	n	o	r	c	b	i	f	d	w	v	a
+vasoconstrictive	lactone	ethanolamine	immunomodulator	acid	poison	rock	halide	tranquilizer	tropane	macrolide	hormone	aid	mesalazine	immunosuppressant
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+encrustation	exudation	urticaria	appendage	rachis	empyema	undernutrition	uropathy	aftereffect	handicap	narrowing	thrombosis	std	redness	defect
+t	u	 	n	o	r	c	b	i	f	d	w	dosage	v	a
+acid	poison	halide	amide	treatment	benzodiazepine	rock	antidote	ester	atom	sulfate	desiccant	antidiabetic	herb	hydrocarbon
+palsy	glomerulonephritis	virus	tension	hurt	mood	tachycardia	disturbance	tumor	malaise	unease	colitis	arenavirus	amnesia	thrombosis
+encephalopathy	tachycardia	enlargement	encrustation	urticaria	cardiopathy	leukoencephalopathy	inflammation	trouble	continuance	cancer	toxaemia	accident	inactivity	lump
+t	u	 	n	o	r	c	b	air	i	f	d	w	v	a
+antigen	epitope	analyte	medicine	valium	aureus	fumarate hydratase	intracranial injury	zele	edp	color spectrum	ahman	sensation of falling	healed	ventricular escape rhythm
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+surfactant	mesalamine	steroid	toxicant	acid	alkali	alloy	herb	glycoside	hydrocarbon	halide	anticonvulsant	hallucinogenic	ester	ion
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+antigen	plant material	oxide	sugar	mucopolysaccharide	n	accelerator	r	enzyme	fatty acid	tincture	glycan	cardiac enzyme	i	alkaloid
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	chemotherapy	conclusion	b	functional skills training	lumbar puncture	surgical procedure
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+surgery	picturing	biopsy	screening	involution	radiograph	medicine	pic	wound	ending	thread	skiagram	oxygenation	yarn	x-ray
+asthma	joy	panencephalitis	colitis	narrowing	failure	dyspnoea	stenosis	pathology	delay	termination	tachycardia	adenopathy	hyperthermia	repeating
+herb	antispasmodic	spice	drug	medicine	plant	beet	vegetable	r48	khalilov	medicament	derrick	disbursement	respiratory center	puzzle
+desiccant	toxin	neuroleptic	anesthetic	peptide	psychostimulant	supplementation	painkiller	sulfate	mesalazine	sugar	vasoconstrictive	alloy	insecticide	toxicant
+puffiness	conclusion	blackout	fever	elation	rupture	uneasiness	intumescence	urticaria	cirrhosis	excess	failure	debility	redness	gravidity
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+plant material	glucocorticoid hormone	essential oil	cortisol	inflammatory disorder	soft tissue infection	b	clinical finding	biofluid	o	dermatitis	phytochemical	polymer	lipid	diagnostic aid
+dyspnea	handicap	module	palsy	empyema	epilepsy	hyperplasia	oedema	hurting	failure	suspension	adenopathy	sarcoma	hemochromatosis	cephalitis
+healthcare professional	n	pupil	r	student	anatomical pathology	illness	i	neoplasm	diagnosis	narrowing	physician	health care provider	protector	medical practitioner
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+drug	hydrolase	sugar	fluid	kinase	peroxidase	antigen	enzyme	glycan	protein	colour	transferase	transporter	analyte	biomolecule
+siloxane	elastomer	polymer	disconnectedness	pacemaker	satiation	1773	wessel	point system	aldo-keto reductase	balog	tumor marker	augustus	sergeant	deceleration
+n	r	hereditary disease	congenital abnormality	fibrosis	paralysis	anatomical pathology	renal disorder	urologic disease	anomaly	i	illness	neoplasm	diagnosis	narrowing
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+vd	module	stenosis	malady	colitis	debility	psychosis	puberty	mood	repeating	puffiness	deficiency	biofilm	growth	continuation
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+t	u	 	memory	n	o	r	c	long-term memory	b	i	f	d	w	ltm
+empyema	blackout	narrowing	arenavirus	intumescence	puffiness	handicap	tension	virus	module	illness	thrombosis	herpes	purpura	dyscrasia
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+fiber	os	anatomy	sac	opening	backbone	organelle	spine	subunit	appendage	bone	fibroblast	outgrowth	arch	vessel
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+radical	tranquillizer	treatment	fluid	biphosphonate	anti-inflammatory	moiety	nifedipine	glycosaminoglycan	opiate	anaesthetic	atom	halide	vasoconstrictive	psychostimulant
+t	u	 	n	o	r	c	b	i	f	d	pulmonary function	w	v	respiratory function
+fluid	cardiopathy	arenavirus	proliferation	swelling	rubor	paranoia	fatigue	haemochromatosis	virus	urticaria	mood	constipation	inflammation	measles
+cirrhosis	handicap	stenosis	disturbance	uneasiness	softness	tension	unease	panencephalitis	perception	angiofibroma	empyema	stiffness	excess	arenavirus
+oil	atom	endocrine	pathology	phytochemical	hydrocarbon	exudate	swelling	drug	attraction	hormone	intumescence	terpene	biomolecule	lipoid
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+hormone	colour	immunomodulator	sugar	transporter	medicament	endocrine	transferase	glycan	phosphotransferase	biomolecule	tincture	drug	surfactant	kinase
+cough	continuation	regurgitation	aftereffect	exudation	module	fever	inactivity	narrowing	dyspnoea	hemorrhage	softness	panencephalitis	thrombosis	haemochromatosis
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	diagnosis	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+toxicant	antidiabetic	cytokine	mesalamine	enzyme	particle	poison	analgesic	solution	nsaid	lactone	fluid	salt	surfactant	aid
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	chemotherapy	conclusion	b	functional skills training	lumbar puncture	surgical procedure
+microorganism	chd	measles	physician	puffiness	calcification	glomerulonephritis	herpes	palsy	cirrhosis	handicap	thrombosis	atrophy	adenopathy	disturbance
+glomerulosclerosis	appendage	continuation	module	cellulitis	palsy	myokymia	intake	telencephalon	paralysis	inflammation	repeating	irritation	measles	impairment
+transplant	bibliotherapy	exposure	thread	angiography	transplantation	assessment	hole	procedure	screening	biopsy	repair	pic	incision	urinalysis
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+desiccant	anion	dopa	alkaloid	oil	endocrine	halide	toxicant	hormone	solution	lipoid	ester	depressant	purgative	mycotoxin
+t	u	 	n	o	r	c	b	i	f	d	age	maturity	w	v
+antigen	allergen	epitope	illness	analyte	gene	metal screw	psychosurgical	algogenic	quotation	histocompatible	padrão	mazzarella	feverish	brocard
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+sulfate	anti-inflammatory	poison	depressant	lipoprotein	desiccant	nucleotide	glycan	toxicant	lactone	nucleobase	oxide	nsaid	heterocycle	chemo
+puffiness	amnesia	dyscrasia	panniculitis	hypertension	encephalomyelopathy	rash	unconsciousness	fibrosis	infirmity	exudation	dyspnoea	intake	intumescence	swelling
+phytochemical	lipid	macromolecule	polysaccharide	catalyst	oil	transferase	hormone	carbohydrate	antidote	secretion	protein	drug	biofluid	endocrine
+n	r	surgical process	i	c	intervention	sternotomy	b	f	d	surgical procedure	w	medical science	operative procedure	t
+psychodynamic psychotherapy	protocol	analysis	urinalysis	medical care	implantation	trephination	ligature	involution	picture	chemotherapy	conclusion	b	functional skills training	lumbar puncture
+epilepsy	hypoventilation	virus	palsy	uneasiness	biofilm	contagion	proliferation	stenosis	adenoma	arenavirus	tachycardia	myokymia	undernutrition	animal
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+t	u	 	n	o	intracardiac pressure	r	c	b	i	f	d	ventricular pressure	w	pressure
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+medicine	nsaid	diphosphonate	ibandronate	bond	hallucinogen	supplement	psychedelic	anti-inflammatory	alkane	moiety	lipid	acid	amine	analgesic
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+saccharide	alloy	corticoid	peptide	halide	herbicide	anesthetic	psychostimulant	salt	chemo	malady	vaccine	glycoside	anion	vasodilator
+nsaid	antidiabetic	alloy	lipid	mucopolysaccharide	oxide	nifedipine	cannabinoid	carbohydrate	xanthine	antidote	antibacterial	herb	alkali	purgative
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+glucocorticoid hormone	beta-adrenergic blocker	cortisol	inflammatory disorder	antiarrhythmic agent	cardiac enzyme	substance of abuse	biological agent	alloy	b	rifamycin	amide	insulin	chemotherapeutic	antihistamine
+passivity	intake	gestation	flushing	exudation	irritation	mediastinitis	myokymia	puberty	stenosis	disorder	accident	hemorrhage	infirmity	std
+enrollee	patient	pathology	illness	disorder	disease	guard	pupil	caregiver	diagnosis	guardian	narrowing	naturalist	sickness	scholar
+encephalomyelitis	disablement	handicap	encephalopathy	infirmity	infection	cardiopathy	trauma	glomerulonephritis	suppuration	disturbance	hurting	redness	pathology	syndrome
+division	stage	specialty	illness	phase	anatomist	arteriovenous difference	havlin	tubulin	go with	metacarpophalangeal	viol	omega	separation	midclavicular line
+carboxy	nucleotide	neuroleptic	painkiller	stimulant	toxin	oxide	alloy	ion	anti-inflammatory	anxiolytic	monocarboxylate	pill	carbohydrate	saccharide
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+outgrowth	proliferation	backbone	aorta	accident	anatomy	fibroma	oedema	cell	vessel	tumor	fibre	puffiness	sac	spine
+skiagram	roentgenogram	oxygenation	ending	evaluation	joining	conclusion	angiography	drawing	icon	attachment	wound	exposure	thread	protocol
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+interferon	ethanolamine	purgative	endocrine	antipsychotic	anticoagulant	antibiotic	treatment	sulfate	halogen	anticonvulsant	antimetabolite	antidiabetic	amide	opiate
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+inflammatory disorder	neoplasm	diagnosis	lymphoproliferative disorder	t-cell lymphoma	b	clinical finding	biofluid	o	lymphoid neoplasm	enlargement	lymphoma	benign tumour	benign tumor	neoplasm of bone
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+roentgenogram	procedure	oxygenation	plan	rehabilitation	attachment	tomography	connexion	joining	incision	pic	aid	radiogram	assessment	urinalysis
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+mesalamine	inhibitor	ester	poison	micro-organism	benzodiazepine	stone	mesalazine	tetrapeptide	supplementation	psychostimulant	alloy	chemo	rock	narcotic
+immunomodulator	antibacterial	glycosaminoglycan	pigment	peroxidase	hydrocarbon	oil	catalyst	antidote	tincture	polymer	medicine	terpene	tetrapeptide	accelerator
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain part	brain disease	b	congenital disorder	transverse plane	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	lumbar puncture	surgical procedure	medical imaging	x-ray
+constipation	stenosis	module	sickness	biofilm	narrowing	calcification	rubor	adenopathy	diagnosis	nematode	panniculitis	delay	dyspnoea	carcinoma
+phytochemical	antibacterial	opiate	desiccant	ethanolamine	drug	anesthetic	immunomodulator	oil	endocrine	mesalamine	salt	toxin	hallucinogen	macrolide
+n	move	r	displacement	i	physical force	mathematical function	wave	deformity	motion	c	animal locomotion	b	f	d
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+paraffin	tropane	glycosaminoglycan	immunomodulator	insecticide	alloy	solution	hormone	chemo	anti-inflammatory	rock	antimetabolite	endocrine	psychostimulant	spice
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+drug	medicine	atom	environment	mixture	illness	alloy	malady	disease	multifaceted	solution	polyangiitis	asunaprevir	heitman	electrokinetic
+suppuration	hurt	continuation	rejection	proliferation	amnesia	hypoventilation	dilatation	pneumonitis	redness	passiveness	micro-organism	dose	ataxia	mania
+backbone	appendage	organ	outgrowth	bone	os	back	rachis	arch	spine	anatomy	tissue	cartilage	specialty	posterior vitreous detachment
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+t	u	 	n	o	higher cognitive process	r	c	b	i	f	d	w	v	a
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+rigidity	gravidity	aneurysm	undernutrition	asthma	panencephalitis	rhinitis	dyspnoea	disfunction	urticaria	pneumonitis	psychopathy	adenopathy	module	puffiness
+swelling	exudation	accident	outgrowth	diagnosis	arch	puffiness	vessel	neoplasia	anatomy	inflammation	backbone	aorta	sarcoma	appendage
+micro-organism	narrowing	disablement	disturbance	empyema	dyspnoea	mania	measles	pathology	polyneuropathy	constipation	palsy	dyscrasia	ophthalmoplegia	uneasiness
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain part	brain disease	b	congenital disorder	transverse plane	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+plant material	essential oil	cardiac enzyme	dye	pancreatic hormone	b	biofluid	insulin	o	colour	bond	antineoplastic agent	phytochemical	polymer	lipid
+motion	wave	disease	sickness	oscillation	vibration	illness	motility	displacement	malady	disorder	deformity	move	movement	pathology
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	cardiac enzyme	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain part	brain disease	b	congenital disorder	transverse plane	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+hurt	excess	cardiopathy	disablement	perception	appendage	syndrome	disturbance	purpura	hurting	softness	frailty	steroid	infirmity	tumor
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+uneasiness	enlargement	cough	puffiness	hurting	disturbance	thrombosis	puberty	epilepsy	rupture	empyema	arenavirus	suppuration	cirrhosis	sickness
+encrustation	pathology	rubor	intumescence	stenosis	measles	debilitation	flushing	exudation	intake	fatigue	paranoia	neoplasia	psychopathy	herpes
+anti-inflammatory	glycosaminoglycan	insulin	halogen	ion	mixture	antispasmodic	halide	peptide	depressant	glycan	oil	fluid	mesalamine	endocrine
+amphibole	tranquilizer	silicate	polymer	crystal	depressant	nucleotide	vasoconstrictor	toxicant	insulin	pyrimidine	antitussive	tranquillizer	oil	nsaid
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+t	u	 	n	o	r	c	b	food allergen	i	f	d	w	v	a
+anti-inflammatory	antipsychotic	micro-organism	vasoconstrictive	microorganism	anesthetic	antidiabetic	stone	desiccant	drug	painkiller	pressor	dopa	supplementation	antibacterial
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+phytochemical	atom	fuel	alkane	hydrocarbon	halogen	attraction	fluid	biomolecule	drug	moiety	bond	polyamine	radical	oil
+cannabinoid	toxicant	depressant	micro-organism	antibacterial	hydrocarbon	diphosphonate	sickness	rock	biopolymer	lipid	anti-inflammatory	lactone	pathology	downer
+disease	virus	pesticide	herbicide	illness	bactericide	drug	malady	antibiotic	microorganism	micro-organism	rifamycin	sickness	arenavirus	medicine
+fall	treatment	therapy	vocalise	pseudoseizure	kawa	mickle	bellmunt	hecher	care	envelop	juvenile	livramento	hollender	nontransfected
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	cardiac enzyme	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	dye
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+medicine	protein	needle track	however	glymphatic	cervical smear	painful skin	gaspé	paxil	cornelius	disconnectedness	fluorescence	becke	iliac vein	politis
+plant material	essential oil	cardiac enzyme	dye	pancreatic hormone	b	biofluid	insulin	o	colour	bond	antineoplastic agent	phytochemical	polymer	lipid
+anti-inflammatory	inhibitor	alloy	chemo	rifamycin	depressant	micro-organism	xanthine	toxicant	atom	tetrapeptide	coumarin	glucocorticoid	antibacterial	stone
+insulin	oil	micro-organism	rifamycin	chemo	alloy	organophosphate	hallucinogen	fluid	mycotoxin	lactone	desiccant	lipoid	anti-inflammatory	antibiotic
+termination	biopsy	n	grafting procedure	r	urinalysis	surgical process	surgical repair	i	measurement procedure	arterial bypass graft	evaluation	implantation	trephination	laboratory test
+t	u	 	n	o	r	c	b	i	f	d	furniture	chair	w	v
+n	r	i	biological agent	medicine	vaccination	c	b	f	d	w	t	 	vaccine	o
+debility	delay	flushing	imperfection	narrowing	empyema	carcinoma	injury	physician	uneasiness	damage	psychosis	dilatation	glomerulosclerosis	hyperthermia
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+cardiac enzyme	dye	pancreatic hormone	b	biofluid	insulin	o	colour	bond	antineoplastic agent	lipid	polymer	antibacterial	secretion	analyte
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+toxicant	halide	glycan	nsaid	toxin	vasoconstrictive	rock	atom	glycoside	herb	anticoagulant	inhibitor	immunomodulator	cytokine	glycosaminoglycan
+rock	nsaid	toxicant	polysaccharide	attraction	poison	inhibitor	lipid	hydrolase	sulfate	peroxidase	glucocorticoid	micro-organism	desiccant	interferon
+medicine	glycoside	drug	nucleoside	illness	fifty-one	antiphon	charters	uçar	unmanipulated	metin	nucleating	transaction	subretinal fibrosis	bronchiolar
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+micro-organism	ester	salt	vasoconstrictive	facies	anxiolytic	peptide	glycosaminoglycan	pressor	oil	nucleobase	carbohydrate	painkiller	warfarin	vasodilator
+uracil	anion	aliphatic	antimetabolite	alloy	nucleobase	heterocycle	ester	atom	hydrocarbon	halide	nucleotide	radical	stone	pyrimidine
+malady	roundworm	disease	sickness	illness	pathology	eel	division	nematode	worm	fish	disorder	neoplasm	echinoderm	animal
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+dose	colitis	frailty	disorder	hurting	aneurysm	glomerulosclerosis	roundworm	cardiopathy	pathology	adenopathy	dyssomnia	continuance	epilepsy	disease
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	rifamycin	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain part	brain disease	b	congenital disorder	transverse plane	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+fever	narrowing	disturbance	amnesia	encephalomyelopathy	rigidity	atrophy	panencephalitis	repeating	micro-organism	dyspnoea	lymphoma	lump	contagion	enlargement
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+typing	disorder	sickness	disease	malady	pathology	genotype	illness	shirk	b101	biblical	complement factor	physiologically	radical perineal prostatectomy	reaction
+plant material	essential oil	non-steroidal anti-inflammatory drug	cardiac enzyme	street drug	substance of abuse	dye	psychedelic drug	b	nutritional supplement	o	colour	lipid	polymer	phytochemical
+malady	worker	narrowing	illness	enrollee	diagnosis	student	intellectual	caregiver	defender	person	surgeon	disease	physician	scholar
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain part	brain disease	b	congenital disorder	transverse plane	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o
+glycosaminoglycan	ion	anaesthetic	pill	biomolecule	fluid	particle	hallucinogenic	tropane	steroidogenesis	toxin	rock	psychedelic	antitussive	psychostimulant
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+edema	encrustation	physician	inflammation	panencephalitis	stenosis	dyscrasia	urticaria	disturbance	uropathy	arenavirus	syndrome	neoplasia	handicap	encephalopathy
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+ion	solution	anti-inflammatory	psychostimulant	stone	rock	tropane	nifedipine	steroid	antipsychotic	rifamycin	anxiolytic	fluid	cortisol	macrolide
+herb	interferon	anti-inflammatory	mesalamine	antiinflammatory	surfactant	purgative	lipid	collagen	toxicant	warfarin	nucleotide	desiccant	organophosphate	cannabinoid
+antidote	lipid	particle	opiate	toxicant	nifedipine	amine	psychostimulant	antidiabetic	antihistamine	lipoid	lipoprotein	phytochemical	halide	crystal
+glomerulonephritis	cough	module	measles	accident	neoplasia	narrowing	uneasiness	dwarfism	disability	leukemia	imperfection	exudation	cancer	fatigue
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+t	u	 	n	o	r	c	blanket	b	i	f	d	w	v	a
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	chemotherapy	conclusion	b	functional skills training	lumbar puncture	surgical procedure
+pressor	ion	mesalamine	vaccine	cannabinoid	macrolide	glycosaminoglycan	psychedelic	spice	halide	micro-organism	hydrocarbon	lipoid	painkiller	opiate
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+beat	blood	heartbeat	pulse	pulsation	specialty	fraction	medicament	borys	converso	take notice	juncture	bielle	ventricular pressure	moraine
+alloy	atom	medicine	drug	solution	metal	environment	mixture	speciality	dysfluency	self-similar	hobert	mth	chromaticity	radiological
+paralysis	cancer	virus	dilatation	measles	sense	atrophy	infarction	hurt	continuance	imperfection	empyema	vulnerability	rash	glomerulonephritis
+corrective	restorative	prosthesis	dentistry	federally	tableau	desiccated	celedon	intrathecal injection	sickness	wireframe	sink	give rise	downstairs	trap
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+micro-organism	alloy	desiccant	ester	vasoconstrictive	supplementation	antidote	painkiller	anion	lipid	toxicant	mesalamine	herb	atom	terpene
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+t	u	 	n	o	r	c	physical property	concentration	b	i	f	d	w	temperature
+healthcare professional	n	pupil	r	student	illness	i	diagnosis	narrowing	physician	health care provider	protector	enrollee	obstruction	pathology
+speciality	protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure
+pathology	malfunction	lymphoma	palsy	dyspnoea	fish	panencephalitis	herpes	frailty	disturbance	vd	excess	toxemia	adenoma	adenopathy
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+antihistamine	sulfate	rifamycin	antibacterial	microorganism	antitussive	analgesic	ion	particle	immunomodulator	aid	steroidogenesis	anti-inflammatory	nsaid	anaesthetic
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+joy	measles	physician	calcification	mood	puffiness	urticaria	fever	cardiomyopathy	redness	unconsciousness	micro-organism	panencephalitis	glomerulonephritis	myokymia
+roundworm	vd	cirrhosis	blackout	sense	cough	stenosis	module	myokymia	haemochromatosis	narrowing	disease	malfunction	cancer	exudation
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+dyspnea	suspension	nephropathy	physician	repeating	proliferation	fever	epilepsy	blood	measles	herpes	redness	sense	mania	dwarfism
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+attachment	picture	microscopy	oxygenation	cord	roentgenogram	fluoroscopy	skiagram	joining	biopsy	conclusion	inspection	photo	pic	urinalysis
+phytochemical	hydrocarbon	fluid	allergen	medicine	oil	drug	macromolecule	lipid	growth	terpene	crane	sickness	international organization	research
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+measles	uneasiness	palsy	cirrhosis	dilatation	painfulness	blood	malformation	urticaria	continuation	roundworm	disturbance	folie	empyema	injury
+move	motility	wave	oscillation	displacement	deformity	motion	vibration	movement	disorder	underfunded	mv	giuffrè	jocularity	balachandran
+t	u	 	n	o	r	c	b	i	f	d	erection	w	v	a
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+tension	mood	neoplasia	termination	gestation	paranoia	narrowing	stenosis	undernutrition	conclusion	dwarfism	cirrhosis	panencephalitis	proliferation	infirmity
+speciality	n	r	surgical process	i	specialism	bioscience	medical specialty	c	intervention	b	surgical specialty	f	d	medical practice
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+os	disorder	purulence	sarcoma	flushing	appendage	emission	complication	proliferation	rubor	level	syndrome	cardiopathy	redness	fiber
+t	u	 	instrument	n	o	r	c	endoscope	b	i	f	d	w	v
+softness	cirrhosis	rupture	joy	module	uneasiness	enlargement	leukemia	calcification	injury	arch	regurgitation	hurting	handicap	aching
+n	r	i	gas pressure	intracardiac pressure	c	b	f	d	w	t	 	o	pressure	blood pressure
+psychodynamic psychotherapy	n	antidepressant therapy	r	skills training	child psychotherapy	i	medical care	medicine	psychotherapy	bibliotherapy	c	intervention	chemotherapy	b
+valve	diagnosing	bout	malady	heavily	824	alleviation	vaithianathan	banani	mahieu	hakim	suspected sarcoma	hydroxylysine	theorizing	international organization
+encrustation	malfunction	adenopathy	enlargement	mania	flushing	disturbance	toxemia	disfunction	leukoencephalopathy	puffiness	exudation	handicap	suppuration	disease
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+anaesthesia	anesthesia	illness	medicine	beckerman	recovery approach	akkawi	springtime	parylene	vernes	executively	couronne	subscriber	doxepin	immunostainer
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+psychostimulant	bond	hormone	interferon	terpene	halide	steroid	lipoprotein	polysaccharide	drug	immunosuppressant	anti-inflammatory	antiviral	organophosphate	mesalamine
+pull	tending	propulsion	aid	intervention	psychotherapy	involution	procedure	therapy	actuation	treatment	pulling	care	incision	involvement
+stone	antimetabolite	cytokine	antidiabetic	anti-inflammatory	tranquilizer	immunosuppressant	steroidogenesis	glycosaminoglycan	halogen	glucocorticoid	anesthetic	hormone	heterocycle	lactam
+anti-inflammatory	surfactant	ion	phytochemical	opiate	endocrine	analgesic	antitussive	amide	atom	chemotherapeutic	immunomodulator	tranquilizer	rock	oil
+tranquilizer	drug	downer	toxicant	cannabinoid	hallucinogen	hydrocarbon	ester	antibacterial	anti-inflammatory	tranquillizer	salt	tropane	depressant	lactone
+test	biopsy	termination	fastening	skiagram	attachment	tomography	joining	figure	evaluation	conclusion	roentgenogram	aid	stimulation	excision
+medicine	oxidoreductase	oil	endocrine	surfactant	catalyst	hydrocarbon	glycosaminoglycan	kinase	immunomodulator	phytochemical	terpene	sugar	polymer	transferase
+rock	carboxy	stone	atom	lipid	drug	ion	monoacid	facies	particle	oxide	acid	medicine	illness	analyte
+continuation	uneasiness	sarcoma	dwarfism	proliferation	unease	thrombosis	amnesia	module	oedema	gestation	disfunction	repeating	redness	palsy
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+proliferation	sarcoma	cardiopathy	tumor	blood	complication	rachis	oedema	fluid	arch	lump	exudate	lymphoma	inflammation	aorta
+protoplasm	anatomy	array	accident	neoplasia	os	appendage	vessel	cavity	swelling	gamete	fibroma	enlargement	level	pus
+t	u	 	n	o	r	c	assessment scales	b	scale	i	f	d	w	v
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	diagnosis	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b
+anion	toxicant	anti-inflammatory	xanthine	alloy	antidiabetic	sugar	antidote	alkali	psychedelic	ion	lactam	nucleobase	lipid	tetrapeptide
+carbohydrate	transporter	interferon	oxidoreductase	surfactant	cytokine	fluid	colour	endocrine	mucopolysaccharide	antidote	antibacterial	tincture	anticoagulant	glycan
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+radical	glucocorticoid hormone	beta-adrenergic blocker	cortisol	antiarrhythmic agent	substance of abuse	biological agent	alloy	b	rifamycin	amide	insulin	chemotherapeutic	antihistamine	microbial agent
+painkiller	endocrine	immunomodulator	salt	hormone	interferon	micro-organism	anion	ester	halogen	glycosaminoglycan	inhibitor	alkali	toxicant	pressor
+antipsychotic	mesalamine	poison	psychostimulant	insecticide	macrolide	purgative	interferon	amide	hydrocarbon	corticosteroid	lactone	analgesic	insulin	bactericide
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+healthcare professional	n	pupil	r	student	illness	i	diagnosis	narrowing	physician	health care provider	protector	enrollee	obstruction	pathology
+sugar	benzodiazepine	biopolymer	glycosaminoglycan	anesthetic	oxide	interferon	bisphosphonate	rifamycin	ester	bond	vasodilator	benzamide	herb	toxicant
+toxicant	painkiller	stone	alloy	alkaloid	analgesic	lipid	micro-organism	atom	inhibitor	stimulant	antidiabetic	lipoprotein	pressor	antibiotic
+tachycardia	pneumonitis	cardiomyopathy	enlargement	thrombosis	fatigue	disorder	neoplasia	chd	stenosis	enuresis	module	toxemia	uneasiness	lymphoma
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+colitis	undernutrition	module	injury	hyperthermia	dyspnoea	panencephalitis	hemorrhage	dose	passivity	uneasiness	flushing	continuation	rupture	repetition
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+anion	anti-inflammatory	warfarin	lactone	alloy	macromolecule	complex	ester	hormone	exudation	toxin	biphosphonate	vitamin	vaccine	immunomodulator
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+aorta	os	arch	blood	sac	neoplasia	outgrowth	pathology	arteria	organ	suppuration	rachis	pus	cancer	hyperplasia
+ataxia	debility	headache	puffiness	delay	dwarfism	rigidity	pregnancy	nephropathy	chd	flushing	adenopathy	disability	unease	handicap
+pathology	malaise	std	dyspnea	hypoventilation	sickness	passiveness	suppuration	fluid	redness	psychopathy	fatigue	exudation	delay	trauma
+termination	suspension	n	r	illness	i	drug suspension	pathology	c	conclusion	b	f	d	malady	w
+sugar	mucopolysaccharide	oxidase	n	immunomodulator	accelerator	r	enzyme	glycan	tincture	cardiac enzyme	i	polysaccharide	hormone	dye
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	vas	brain part	organelle	back	b	clinical finding
+malady	worker	narrowing	intellectual	scholar	sickness	disorder	pathology	physician	diagnosis	defender	disease	student	enrollee	surgeon
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain part	brain disease	b	congenital disorder	transverse plane	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protein	rock	warfarin	endocrine	halide	biomolecule	psychostimulant	interferon	microorganism	lactone	oxidoreductase	toxin	pill	lipid	opiate
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	chemotherapy	conclusion	b	functional skills training	lumbar puncture	surgical procedure
+glomerulonephritis	uneasiness	rigidity	puffiness	toxemia	physician	pneumonitis	malady	virus	painfulness	module	lymphoma	fever	micro-organism	tachycardia
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+desiccant	tranquillizer	salt	lactone	antitussive	bactericide	endocrine	atom	halide	psychostimulant	ester	insulin	rifamycin	warfarin	particle
+rock	herb	microorganism	antidiabetic	endocrine	anti-inflammatory	neuroleptic	anesthetic	anaesthetic	antipsychotic	bond	xanthine	vasoconstrictor	oil	salt
+hydrocarbon	tranquilizer	lipoprotein	ester	glycoside	toxin	antibiotic	poison	pyrimidine	halide	terpene	micro-organism	treatment	sedative-hypnotic	anticoagulant
+opening	auditory structure	supratentorial brain	muscle cell	organelle	brain part	vas	back	b	transverse plane	sac	body part	aorta	o	irregular bone
+t	u	 	n	o	r	c	b	i	f	d	fat	w	v	a
+hydrocarbon	anti-inflammatory	alloy	cortisol	poison	tropane	intervention	mesalamine	halogen	procedure	rifamycin	benzodiazepine	immunomodulator	endocrine	supplementation
+t	u	 	n	o	r	c	b	i	f	d	w	hospital	v	site of care
+irritation	hyperthermia	empyema	termination	debility	glomerulonephritis	accident	cephalitis	passiveness	encephalopathy	proliferation	leukemia	elation	frailty	myokymia
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+atom	supplement	heterocycle	desiccant	salt	ester	pyrimidine	antimetabolite	crystal	drug	nucleotide	uracil	acid	monocarboxylate	alkaloid
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+halide	spice	acid	diphosphonate	benzimidazole	nsaid	treatment	rock	poison	antibacterial	ester	anxiolytic	surfactant	psychostimulant	paraffin
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain part	brain disease	b	congenital disorder	transverse plane	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+phytochemical	anti-inflammatory	mesalamine	macrolide	vaccine	anesthetic	hormone	cannabinoid	rock	anxiolytic	antiinflammatory	glycosaminoglycan	toxicant	oil	antidiabetic
+t	u	 	framework	n	o	r	c	b	i	f	d	w	v	a
+icon	test	picture	fluoroscopy	roentgenogram	skiagram	drawing	photograph	pic	radiogram	radiograph	photo	imaging	picturing	evaluation
+nephropathy	nephrosis	physician	delay	puffiness	softness	malaise	disease	exudate	scleroderma	uropathy	passiveness	redness	stenosis	tension
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+rock	sulfate	poison	oil	bisphosphonate	halide	ibandronate	hydrocarbon	bactericide	phytochemical	antidiabetic	heterocycle	cannabinoid	antimetabolite	ester
+glycosaminoglycan	vaccine	chemotherapeutic	polymer	fluid	lipoid	amine	immunosuppressant	nucleotide	corticosteroid	macromolecule	glycoside	ester	anti-inflammatory	rock
+glycosaminoglycan	tincture	surfactant	accelerator	sugar	phosphotransferase	oxidase	insulin	mucopolysaccharide	interferon	hydrolase	carbohydrate	lipoprotein	pigment	macromolecule
+anti-inflammatory	drug	toxicant	lipid	inhibitor	salt	organophosphate	psychedelic	medicine	carboxy	diphosphonate	hallucinogenic	ibandronate	acid	medicament
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+painkiller	cytokine	steroid	peptide	hallucinogenic	opiate	rock	diphosphonate	halide	protein	glycosaminoglycan	micro-organism	hormone	pressor	lipoprotein
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+enlargement	tumor	cavity	neoplasia	fibroma	pathology	fluid	arch	accident	anatomy	sac	proliferation	oedema	purulence	cardiopathy
+micro-organism	disease	virus	sickness	illness	pathogen	rifamycin	pesticide	medicine	bactericide	antibiotic	drug	herbicide	microorganism	malady
+outgrowth	fibroma	proliferation	tumor	aorta	hydrops	pathology	vessel	lymphoma	lump	fibroblast	enlargement	sarcoma	pus	swelling
+n	r	i	gas pressure	intracardiac pressure	c	b	f	d	w	t	 	o	pressure	blood pressure
+plant material	antigen	n	terpene	r	essential oil	i	medicine	allergen	c	b	epitope	f	d	w
+accident	disease	wound	angina	sickness	disorder	injury	harm	illness	complication	misfortune	mishap	trauma	hurt	malady
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+antidiabetic	terpene	antimetabolite	supplementation	desiccant	anti-inflammatory	halide	macrolide	carbohydrate	anticoagulant	lipoid	rock	anion	analyte	analgesic
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+corticosteroid	enlargement	glucocorticoid	lipid	oil	suppuration	biopolymer	swelling	drug	bleeding	phytochemical	exudation	intumescence	macromolecule	exudate
+colitis	pathogen	handicap	hurting	disability	encephalomyelitis	pain	gestation	cardiopathy	softness	encrustation	puberty	panencephalitis	os	malformation
+illness	sarcoma	injury	aneurysm	measles	dyspnea	puffiness	calcification	puberty	delay	continuation	infection	uneasiness	epilepsy	rhinitis
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+ataxia	narrowing	calcification	adenoma	palsy	roundworm	crust	softness	uneasiness	purpura	lightness	redness	virus	disfunction	biofilm
+immune response	t	u	 	n	o	r	c	b	i	f	d	immunologic function	w	response
+vaccine	cortisol	antibacterial	immunomodulator	peptide	oil	vasoconstrictor	downer	halogen	sugar	antitussive	benzodiazepine	mesalazine	hydrocarbon	antipsychotic
+psychostimulant	rock	salt	antipsychotic	facies	phytochemical	opiate	microorganism	immunosuppressant	ion	benzodiazepine	drug	mesalamine	endocrine	immunomodulator
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+hypoventilation	myokymia	puffiness	empyema	calcification	elation	thrombosis	angina	physician	lump	disturbance	encephalopathy	vulnerability	obstruction	glomerulonephritis
+palliative care service	n	r	i	medical care	c	intervention	b	aid	f	d	w	medical aid	therapeutic procedure	t
+t	u	 	n	o	r	c	b	method	i	f	d	technique	w	v
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+chemo	chemotherapy	tug	treatment	surgery	bibliotherapy	medicine	procedure	tending	aid	involvement	care	psychotherapy	intervention	involution
+sugar	pill	particle	chemo	tropane	sulfate	antidote	benzodiazepine	hydrocarbon	biopolymer	atom	antihistamine	glycosaminoglycan	immunosuppressant	nucleotide
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+halide	ester	salt	atom	ion	antimetabolite	aliphatic	attraction	oxide	uracil	alkali	rock	esterification	facies	anion
+t	u	 	n	o	r	c	healthcare services	services	b	i	f	d	w	v
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+surfactant	accelerator	tincture	insulin	antibacterial	kinase	activator	glycosaminoglycan	phosphotransferase	glycan	fluid	oxidase	hydrocarbon	hormone	lipoprotein
+illness	defender	physician	malady	worker	caregiver	student	intellectual	patient	pupil	recipient	guard	enrollee	guardian	specialty
+glycosaminoglycan	insecticide	alloy	halogen	sedative-hypnotic	antidote	atom	analgesic	diphosphonate	anion	halide	alkali	tranquilizer	pill	nucleotide
+alloy	aliphatic	steroidogenesis	tropane	halide	oil	herb	arylamine	blocker	hallucinogenic	alkali	sulfate	lipoprotein	nifedipine	atom
+narrowing	roundworm	measles	irritation	encrustation	purpura	hemochromatosis	cancer	repetition	hydrops	nephropathy	enlargement	dose	tension	malfunction
+paraffin	drug	medicine	particle	arylamine	anion	nucleotide	halide	rock	alkane	nucleobase	ester	solution	polyamine	antimetabolite
+healthcare professional	n	pupil	r	student	anatomical pathology	illness	i	neoplasm	diagnosis	narrowing	physician	health care provider	protector	enrollee
+t	u	 	n	o	problem situation	r	c	b	i	f	d	problem	w	v
+swelling	biofilm	empyema	handicap	colitis	elation	thrombosis	flushing	puffiness	aching	urticaria	cough	nematode	proliferation	blood
+salt	drug	paraffin	alkane	atom	arylamine	monoacid	radical	carboxy	amine	analyte	moiety	crystal	aliphatic	lipid
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	conclusion	b	functional skills training	lumbar puncture	surgical procedure	medical imaging
+health-related behavior	t	u	 	n	o	r	c	b	i	f	d	w	v	a
+sarcoma	fibroma	disease	proliferation	accident	myocyte	arch	injury	back	opening	spine	malady	bone	backbone	dilatation
+insecticide	rock	toxin	mixture	lipoid	glycosaminoglycan	paraffin	hallucinogen	lactone	depressant	nsaid	antitussive	hallucinogenic	amide	antidiabetic
+hormone	polysaccharide	tincture	kinase	peroxidase	oxidoreductase	transporter	activator	transferase	immunomodulator	accelerator	endocrine	macromolecule	glycosaminoglycan	insulin
+healthcare professional	n	pupil	r	student	illness	i	diagnosis	narrowing	physician	health care provider	protector	enrollee	obstruction	pathology
+lactam	spice	cortisol	desiccant	macrolide	antidiabetic	hydrocarbon	endocrine	analgesic	tetrapeptide	cannabinoid	enzyme	alkaloid	supplement	toxicant
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+myocyte	cell	backbone	syndrome	disease	fiber	appendage	swelling	opening	sac	telencephalon	accident	sarcoma	puffiness	artery
+t	u	 	n	o	r	c	b	i	f	d	w	hospital	v	site of care
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+alloy	medicine	drug	mixture	solution	environment	magnesium alloy	illness	viral myositis	itou	interstitial pneumonia	firefly	cytochemical	aftermath	hauff
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+anti-inflammatory	amphibole	halide	anion	ester	rock	medicine	salt	oxide	stone	monoacid	biphosphonate	drug	nucleobase	hallucinogenic
+t	u	 	semiconductor	n	o	r	c	b	carbide	i	f	d	w	v
+t	u	 	appliance	n	o	r	c	b	i	f	d	w	v	a
+steroid	interferon	anti-inflammatory	vasoconstrictive	mesalamine	glycan	halide	anion	desiccant	glucocorticoid	hormone	macrolide	rock	inhibitor	benzimidazole
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+specialization	procedure	specialism	specialty	speciality	intervention	career	bioscience	surgery	specialisation	korean won	drug-induced uveitis	invasively	c. trachomatis	hylan
+thrombosis	illness	angiofibroma	pathology	rejection	cardiopathy	proliferation	inactivity	mood	handicap	paralysis	adenopathy	fever	uneasiness	calcification
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+immunosuppressant	acid	bactericide	particle	ion	herb	lactone	steroidogenesis	toxin	vasoconstrictive	mesalazine	mixture	micro-organism	downer	anxiolytic
+protocol	psychodynamic psychotherapy	analysis	urinalysis	medical care	implantation	trephination	ligature	picture	chemotherapy	conclusion	b	functional skills training	lumbar puncture	surgical procedure
+passivity	colitis	disturbance	puffiness	hyperthermia	rhinitis	amnesia	dyscrasia	malady	handicap	enuresis	exudation	module	proliferation	aneurysm
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+t	u	 	n	o	saturation	r	c	b	oxygen saturation	i	f	d	w	v
+technique	method	disease	illness	operator	presentation software	paediatrics	ileocecal intussusception	crude death rate	anomaly	posterior median sulcus	ratio value	devon	eslicarbazepine	gene
+t	u	 	n	o	r	c	b	i	f	d	w	v	diet	a
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	pathogenic organism	inflammatory disease	respiratory failure	o	dermatitis	disease of lung
+degenerative disorder	inflammatory disorder	congenital disease	lymphoproliferative disorder	t-cell lymphoma	brain disease	b	congenital disorder	hypoventilation	inflammatory disease	respiratory failure	o	dermatitis	disease of lung	psychological disorder
+pathology	panencephalitis	continuance	adenopathy	aching	calcification	epilepsy	continuation	cephalalgia	adenoma	dyspnea	occlusion	encrustation	constipation	empyema
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
+dysplasia	opening	inflammatory disorder	neoplasm	supratentorial brain	auditory structure	lymphoproliferative disorder	muscle cell	t-cell lymphoma	organelle	brain part	vas	back	b	clinical finding
+plant material	stimulant	glucocorticoid hormone	beta-adrenergic blocker	essential oil	cortisol	non-steroidal anti-inflammatory drug	antiarrhythmic agent	street drug	substance of abuse	mesalazine	biological agent	tranquilizer	alloy	psychedelic drug
